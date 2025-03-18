@@ -48,7 +48,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: METARCHITECTURE
+disqus_username: Disqus
 
 # Netease setttings
 netease_comment: false
