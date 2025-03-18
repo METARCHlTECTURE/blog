@@ -1,5 +1,5 @@
-> Twist on your idea,
-> Make more time.
+> HELLO,
+> SHIT!
 
 一名即将毕业的大学生。
 

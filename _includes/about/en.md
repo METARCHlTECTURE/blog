@@ -1,6 +1,6 @@
 
-> Twist on your idea,
-> Make more time.
+> HELLO,
+> SHIT!
 
 
 A graduating college student.
