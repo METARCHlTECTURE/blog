@@ -1,10 +1,10 @@
 # Site settings
-title: METARCHITECTURE Blog
-SEOTitle: METARCHITECTURE 的博客 | METARCHITECTURE Blog
+title: METARCHITECTURE BLOG
+SEOTitle: METARCHITECTURE 的博客 | METARCHITECTURE BLOG
 header-img: img/home-bg-shadow.jpg
 email: 1399472841@gmail.com
 description: "关于前端与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "METARCHITECTURE, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
+keyword: "METARCHITECTURE, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux BLOG, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
 url: "https://metarchltecture.github.io"              # your host, for absolute URL
 baseurl: "/blog"                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -67,7 +67,7 @@ ga_domain: auto
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Twist on your idea，<br>Make more time."
-sidebar-avatar: /img/avatar-twist.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-twist.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
