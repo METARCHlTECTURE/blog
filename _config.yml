@@ -3,19 +3,19 @@ title: METARCHITECTURE BLOG
 SEOTitle: METARCHITECTURE BLOG
 header-img: img/home-bg-shadow.jpg
 email: 1399472841@gmail.com
-description: "关于前端与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "METARCHITECTURE, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux BLOG, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
+description: "THIS IS METARCHITECTURE"
+keyword: "METARCHITECTURE, METARCHITECTURE, @METARCHITECTURE, METARCHITECTURE 的博客, METARCHITECTURE BLOG, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
 url: "https://metarchltecture.github.io"              # your host, for absolute URL
 baseurl: "/blog"                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 # SNS settings
 RSS: false
-weibo_username:     twistonidea
-zhihu_username:     twistonidea
-github_username:    twistonidea
-twitter_username:   twistonidea
-#facebook_username:  huxpro
+weibo_username:     METARCHITECTURE
+zhihu_username:     METARCHITECTURE
+github_username:    METARCHITECTURE
+twitter_username:   METARCHITECTURE
+#facebook_username:  METARCHITECTURE
 # linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -47,7 +47,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: twistonidea
+disqus_username: METARCHITECTURE
 
 # Netease setttings
 netease_comment: false
