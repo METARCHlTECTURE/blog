@@ -1,14 +1,14 @@
 {
-    "name": "twist-blog",
-    "title": "Twist Blog",
-    "author": "Twist <1399472841@gmail.com>",
+    "name": "METARCHITECTURE-blog",
+    "title": "METARCHITECTURE Blog",
+    "author": "METARCHITECTURE <1399472841@gmail.com>",
     "version": "1.7.0",
-    "homepage": "http://twistonidea.github.io",
+    "homepage": "https://https://metarchltecture.github.io/blog",
     "repository": {
         "type": "git",
-        "url": "https://github.com/TwistOnIdea/TwistOnIdea.github.io"
+        "url": "https://github.com/METARCHlTECTURE/metarchia.github.io"
     },
-    "bugs": "https://github.com/TwistOnIdea/TwistOnIdea.github.io/issues",
+    "bugs": "https://github.com/METARCHlTECTURE/metarchia.github.io/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
